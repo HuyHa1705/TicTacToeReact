@@ -73,7 +73,7 @@ body {
 
 .board-row:after {
   clear: both;
-  content: '';
+  content: "";
   display: table;
 }
 
@@ -90,11 +90,11 @@ body {
 }
 
 .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .winning-square {
-    background-color: #FFFF00;
+  background-color: #ffff00;
 }
